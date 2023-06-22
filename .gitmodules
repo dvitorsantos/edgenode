@@ -1,0 +1,3 @@
+[submodule "edgeworker"]
+	path = edgeworker
+	url = https://github.com/dvitorsantos/edgeworker.git
